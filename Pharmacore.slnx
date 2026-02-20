@@ -1,15 +1,15 @@
 <Solution>
-  <Folder Name="/packages/" />
-  <Folder Name="/packages/auth/">
-    <Project Path="packages/auth/Pharmacore.Auth.Test/Pharmacore.Auth.Test.csproj" />
-    <Project Path="packages/auth/Pharmacore.Auth/Pharmacore.Auth.csproj" />
+  <Folder Name="/pkgs/" />
+  <Folder Name="/pkgs/auth/">
+    <Project Path="pkgs/auth/Pharmacore.Auth.Test/Pharmacore.Auth.Test.csproj" />
+    <Project Path="pkgs/auth/Pharmacore.Auth/Pharmacore.Auth.csproj" />
   </Folder>
-  <Folder Name="/packages/product/">
-    <Project Path="packages/product/Pharmacore.Product.Test/Pharmacore.Product.Test.csproj" />
-    <Project Path="packages/product/Pharmacore.Product/Pharmacore.Product.csproj" />
+  <Folder Name="/pkgs/product/">
+    <Project Path="pkgs/product/Pharmacore.Product.Test/Pharmacore.Product.Test.csproj" />
+    <Project Path="pkgs/product/Pharmacore.Product/Pharmacore.Product.csproj" />
   </Folder>
-  <Folder Name="/packages/shared/">
-    <Project Path="packages/shared/Pharmacore.Core.Test/Pharmacore.Core.Test.csproj" />
-    <Project Path="packages/shared/Pharmacore.Core/Pharmacore.Core.csproj" />
+  <Folder Name="/pkgs/shared/">
+    <Project Path="pkgs/shared/Pharmacore.Core.Test/Pharmacore.Core.Test.csproj" />
+    <Project Path="pkgs/shared/Pharmacore.Core/Pharmacore.Core.csproj" />
   </Folder>
 </Solution>
